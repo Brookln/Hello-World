@@ -1,3 +1,5 @@
 # Hello-World
 Test Project for GitHub
-Just learning github.
+
+I'm a junior.
+hello
